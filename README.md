@@ -5,10 +5,12 @@ Project Date: 09-17-2021
 ReadMe Date: 10-01-2021
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare Data
+
 
 ### Description
-Describe what your project is about and what it does
+Data exploration prject for the purposes of ubderstanding data from 3 cities New York, Chicago and Washignton.
+To answer questions around the available data and gain insights from the data using R.
 
 ### Files used
 Include the files used
